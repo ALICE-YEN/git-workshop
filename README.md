@@ -40,3 +40,17 @@
   | move     | mv     | 移動檔案   move  |
   | del     | rm     | 刪除檔案    remove |
   | cls     | clear     | 清除畫面上的內容     |
+
+  `rm -rf *` : 刪除了全部的東西，格外小心!
+  
+### Git & Github 運用
+
+- 請詳上課ptt : <img width="120" alt="截圖 2022-01-05 上午1 03 05" src="https://user-images.githubusercontent.com/95270411/148096164-73d7fb49-4d06-482b-880f-255787b38f48.png">
+
+- pull requests : [與其它開發者的互動-使用 Pull Request(PR)]
+
+[與其它開發者的互動-使用 Pull Request(PR)]:https://gitbook.tw/chapters/github/pull-request
+
+
+## 上課心得
+老師講授觀念十分地清晰，不只講解操作方式，更會先說明誕生原因、淵源及實務做法，因為這些知識豐富了課程，讓我很難得地下課後還記得很多內容，複習起來也有效率許多。
