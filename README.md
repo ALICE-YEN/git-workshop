@@ -1,6 +1,6 @@
 # 12/25-26 的上課筆記 & 心得
 
-## 上課筆記
+## 上課筆記 - Git Workshop
 
 ### Why git?
 - 原始碼版本管理系統
@@ -50,6 +50,22 @@
 - pull requests : [與其它開發者的互動-使用 Pull Request(PR)]
 
 [與其它開發者的互動-使用 Pull Request(PR)]:https://gitbook.tw/chapters/github/pull-request
+
+## 上課筆記 - NodeJS Workshop
+
+### NodeJS
+到目前為止，你們寫的 Javascript 都在哪裡「執行」？ 瀏覽器
+
+==> NodeJS 另外一個可以執行 Javascript 的地方
+
+### 安裝
+
+nvm 是 Node.js 的版本管理器 (version manager)，可在同一台主機上安裝多個版本的 Node.js 環境，因為不同專案可能會使用不同的 Node.js 版本，那就需要透過一個版本管理器來切換不同的 Node.js 版本。
+
+mac:
+https://github.com/nvm-sh/nvm
+
+***
 
 
 ## 上課心得
